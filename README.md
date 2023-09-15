@@ -1,3 +1,3 @@
 # hello-world
 Tutorial rápido 
-**tesstando** o **tutorial** do **github**
+**Matheus** é **legal** do **divertido**
